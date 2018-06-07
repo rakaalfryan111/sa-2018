@@ -82,8 +82,10 @@ Rat in a maze using BackTracking
 * (121110574) Ahmad Siddiq N.F.
 
 ## Topic and Description
+Solving 'Unblock Me' using BFS
 
 ## Github Repository
+[https://github.com/lyraeanggarda/Project-SA](https://github.com/lyraeanggarda/Project-SA)
 
 # Group VII
 
