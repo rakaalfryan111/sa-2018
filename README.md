@@ -183,9 +183,11 @@ N-Queen
 
 ## Topic and Description
 
-Mining game
+Menyelesaikan game puzzle light up(akari) menggunakan algoritma DFS
 
 ## Github Repository
+
+[https://github.com/alola007/sa-project](https://github.com/alola007/sa-project)
 
 # Group XIV
 
