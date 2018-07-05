@@ -23,9 +23,10 @@
 * (161111042) antonius aldi w
 
 ## Topic and Description
-solving slide puzzle with DFS and BFS
+solving swap puzzle with decrease and conquer
 
 ## Github Repository
+[https://github.com/marcerino22/Puzzle-Solver-Project-SA](https://github.com/marcerino22/Puzzle-Solver-Project-SA)
 
 # Group III
 
