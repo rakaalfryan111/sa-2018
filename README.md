@@ -27,6 +27,8 @@ solving slide puzzle with DFS and BFS
 
 ## Github Repository
 
+[https://github.com/marcerino22/Puzzle-Solver-Project-SA](https://github.com/marcerino22/Puzzle-Solver-Project-SA)
+
 # Group III
 
 ## Members
